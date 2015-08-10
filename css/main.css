@@ -1,0 +1,38 @@
+body {
+    font-family: "Spinnaker", sans-serif;
+}
+ 
+h1 {
+    color: #747704;
+    margin: 0 20px 0 10px;
+}
+
+h2 {
+    color: #bcbbbb;
+}
+
+h3 {
+    color: #747704;
+    font-size: 18px;
+    margin: 20px 20px 0 20px;
+}
+
+h4 {
+    color: #747704;
+}
+
+.col-md-12 {
+    padding: 20px;
+}
+
+.col-md-4 {
+    padding: 20px;
+}
+
+.col-md-6 {
+    padding: 20px;
+}
+
+.container {
+    background-color: #fffacd;
+}
